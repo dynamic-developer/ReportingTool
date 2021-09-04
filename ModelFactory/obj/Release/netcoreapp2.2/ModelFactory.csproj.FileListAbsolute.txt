@@ -1,0 +1,9 @@
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\bin\Release\netcoreapp2.2\ModelFactory.deps.json
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\bin\Release\netcoreapp2.2\ModelFactory.dll
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\bin\Release\netcoreapp2.2\ModelFactory.pdb
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Release\netcoreapp2.2\ModelFactory.csprojAssemblyReference.cache
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Release\netcoreapp2.2\ModelFactory.csproj.CoreCompileInputs.cache
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Release\netcoreapp2.2\ModelFactory.AssemblyInfoInputs.cache
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Release\netcoreapp2.2\ModelFactory.AssemblyInfo.cs
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Release\netcoreapp2.2\ModelFactory.dll
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Release\netcoreapp2.2\ModelFactory.pdb

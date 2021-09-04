@@ -1,0 +1,14 @@
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\bin\Release\netcoreapp2.2\DataFactory.deps.json
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\bin\Release\netcoreapp2.2\DataFactory.runtimeconfig.json
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\bin\Release\netcoreapp2.2\DataFactory.runtimeconfig.dev.json
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\bin\Release\netcoreapp2.2\DataFactory.dll
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\bin\Release\netcoreapp2.2\DataFactory.pdb
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\bin\Release\netcoreapp2.2\ModelFactory.dll
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\bin\Release\netcoreapp2.2\ModelFactory.pdb
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\obj\Release\netcoreapp2.2\DataFactory.csprojAssemblyReference.cache
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\obj\Release\netcoreapp2.2\DataFactory.csproj.CoreCompileInputs.cache
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\obj\Release\netcoreapp2.2\DataFactory.AssemblyInfoInputs.cache
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\obj\Release\netcoreapp2.2\DataFactory.AssemblyInfo.cs
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\obj\Release\netcoreapp2.2\DataFactory.csproj.CopyComplete
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\obj\Release\netcoreapp2.2\DataFactory.dll
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\DataFactory\obj\Release\netcoreapp2.2\DataFactory.pdb

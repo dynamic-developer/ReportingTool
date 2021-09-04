@@ -1,0 +1,82 @@
+
+.filters {
+  padding: 0rem;
+}
+
+.center-container {
+  display: flex;
+  justify-content: center;
+  padding-bottom:5px;
+}
+
+.percentage-container {
+  float:left;
+  width:70px;
+}
+
+.highcharts-gender {
+  width: 100% !important;
+
+  svg {
+    width: 100% !important;
+  }
+}
+
+.highcharts-container {
+  width: 100% !important;
+}
+
+.graphtype-filter-container {
+  display: flex;
+  justify-content: center;
+}
+
+.gender-filter-container {
+  padding-top: 3px;
+  padding-bottom: 9px;
+  display: flex;
+  justify-content: center;
+
+  .filter-container {
+    display: flex;
+    justify-content: center;
+
+    div {
+      padding-left: 8px;
+      padding-right: 8px;
+    }
+
+    .selector {
+      padding-top: 2px;
+    }
+
+    .male {
+      background-color: #1F77B4;
+    }
+
+    .female {
+      background-color: #AEC7E8;
+    }
+
+    .other {
+      background-color: #FF7F0E;
+    }
+  }
+}
+
+.graphType-selected {
+  background-color: dodgerblue;
+}
+
+.graphType-unselected {
+  background-color: white;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.gender-filter {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}

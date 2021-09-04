@@ -1,0 +1,17 @@
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\bin\Debug\netcoreapp2.2\ModelFactory.deps.json
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\bin\Debug\netcoreapp2.2\ModelFactory.dll
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\bin\Debug\netcoreapp2.2\ModelFactory.pdb
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.csprojAssemblyReference.cache
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.csproj.CoreCompileInputs.cache
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.AssemblyInfoInputs.cache
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.AssemblyInfo.cs
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.dll
+E:\Clients\Pratima\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.pdb
+D:\MyOwnMed\MyOwnMed\ModelFactory\bin\Debug\netcoreapp2.2\ModelFactory.deps.json
+D:\MyOwnMed\MyOwnMed\ModelFactory\bin\Debug\netcoreapp2.2\ModelFactory.dll
+D:\MyOwnMed\MyOwnMed\ModelFactory\bin\Debug\netcoreapp2.2\ModelFactory.pdb
+D:\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.csproj.CoreCompileInputs.cache
+D:\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.AssemblyInfoInputs.cache
+D:\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.AssemblyInfo.cs
+D:\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.dll
+D:\MyOwnMed\MyOwnMed\ModelFactory\obj\Debug\netcoreapp2.2\ModelFactory.pdb
